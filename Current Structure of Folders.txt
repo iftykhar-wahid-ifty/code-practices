@@ -1,0 +1,24 @@
+Current Structure of Folders: 
+
+File Path:E:\0. Ifty\1. Personal\0. Serious Code Practices
+
+Code Practices/
+├── Backend/
+│   └── JS/
+├── Database/
+│   └── MySQL/
+├── Frameworks/
+│   ├── Bootstrap 5/
+│   ├── EJS/
+│   ├── ExpressJS/
+│   ├── NodeJS/
+│   ├── ReactJS/
+│   ├── Tailwind CSS/
+│   └── VueJS/
+├── Frontend/
+│   ├── HTML/
+│   └── CSS/
+├── Pre-processor/
+│   └── SASS/
+└── Tools/
+    └── Git-GitHub/

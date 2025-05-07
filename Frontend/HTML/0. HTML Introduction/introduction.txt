@@ -1,0 +1,4 @@
+HTML stands for HyperText Markup Language. 
+
+- It is the standard markup language used to create and design documents that are displayed in a web browser.
+- HTML forms the basic structure of web pages and is one of the core technologies of the World Wide Web, alongside CSS (Cascading Style Sheets) and JavaScript.
