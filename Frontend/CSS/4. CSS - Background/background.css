@@ -130,5 +130,5 @@ background: [background-color] [background-image] [background-position] / [backg
     height: 100vh;
     border: 1px solid black;
 
-    background: url(image.jpg) center center / contain no-repeat scroll;
+    background: url(image.jpg) center center / cover no-repeat scroll;
 }
