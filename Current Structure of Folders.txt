@@ -4,9 +4,9 @@ File Path:E:\0. Ifty\1. Personal\0. Serious Code Practices
 
 Code Practices/
 ├── Backend/
-│   └── JS/
+│   ├── JS/
 ├── Database/
-│   └── MySQL/
+│   ├── MySQL/
 ├── Frameworks/
 │   ├── Bootstrap 5/
 │   ├── EJS/
@@ -20,5 +20,11 @@ Code Practices/
 │   └── CSS/
 ├── Pre-processor/
 │   └── SASS/
-└── Tools/
-    └── Git-GitHub/
+├── Tools/
+│   └── Git-GitHub/
+└── Programming Languages/
+    ├── C/
+    ├── C++/
+    ├── C#/
+    ├── Java/
+    └── Python/
