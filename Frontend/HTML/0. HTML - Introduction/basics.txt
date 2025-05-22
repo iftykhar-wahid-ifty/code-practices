@@ -1,0 +1,43 @@
+------------------
+1. HTML Elements: 
+------------------
+An HTML element is the building block of HTML. It usually consists of:
+    - An opening tag
+    - Some content
+    - A closing tag
+
+Exmple: <p>This is a paragraph.</p>
+<p>                     - is the opening tag
+This is a paragraph     - is the content
+</p>                    - is the closing tag
+
+Tags are keywords enclosed in angle brackets like <tagname>.
+
+
+
+------------------
+2. Types of tags:
+------------------
+Paired Tags                 - Have an opening and a closing part
+Self-closing (Void) Tags    - Do not have closing tags
+
+Paired Tags:
+<h1>Hello</h1>
+
+Self-closing Tags:
+<img src="image.jpg" alt="Description" />
+<br />
+
+
+
+--------------------
+3. HTML Attributes
+--------------------
+Attributes provide additional information about elements. They are always placed in the opening tag and follow the name="value" format.
+
+Example:
+<a href="https://example.com" target="_blank">Visit Site</a>
+
+Here:
+href specifies the URL
+target="_blank" opens the link in a new tab
